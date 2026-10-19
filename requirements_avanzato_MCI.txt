@@ -1,0 +1,4 @@
+google_auth_oauthlib==1.5.0
+traitlets==5.16.1
+
+pyinstaller>=6.0.0
