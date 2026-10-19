@@ -37,3 +37,14 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python applicazioni/multi_copia/multi_copia.py
+```
+
+---
+
+## 🔮 Roadmap & Future Developments
+
+- [ ] **Internationalization (i18n):** Multi-language interface support (English / Italian).
+- [ ] **Custom Hotkeys Engine:** Fully rebindable keyboard shortcuts tailored to different layout formats.
+- [ ] **Cross-Platform Compilation:** Automated builds for macOS and Linux.
+
+## MIT License - see LICENSE for details.
