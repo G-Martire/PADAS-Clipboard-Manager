@@ -4,7 +4,7 @@
 
 **PADAS Clipboard Manager** is a lightweight, zero-popup productivity utility built with **Python 3.14** and **PyQt6**. It automates multi-slot data management, selective formatting, and instant cloud image uploads to eliminate repetitive copy-paste tasks.
 
-📱 **Featured on LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/G-Martire/)
+📱 **Featured on LinkedIn:** [Connect on LinkedIn](https:/www.linkedin.com/feed/update/urn:li:share:7517986574891118592/)
 
 ---
 
